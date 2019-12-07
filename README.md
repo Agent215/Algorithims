@@ -4,3 +4,4 @@ i have a bunch of random algorithims laying around various places. thought i wou
 ## files included
  - mario.c  // algo made to solve a google games event question
  - fibDynamic.cpp // compute nth fibonacci number in polynomial time using dynamic programing. 
+ - bitwise.c      // a program to perform bitwise operations on two unsigned integers 
